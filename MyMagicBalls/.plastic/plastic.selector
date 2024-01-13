@@ -1,4 +1,0 @@
-repository "MyMagicBalls@xiaominote4igor@cloud"
-  path "/"
-    br "/main"
-    co "/main"
