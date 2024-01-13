@@ -1,15 +1,15 @@
-# =============== #
-# Unity generated #
-# =============== #
+===============
+Unity generated
+===============
 Temp/
 Obj/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
 
-# ===================================== #
-# Visual Studio / MonoDevelop generated #
-# ===================================== #
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
 ExportedObj/
 *.svd
 *.userprefs
@@ -19,14 +19,14 @@ ExportedObj/
 *.sln
 *.user
 *.unityproj
-*.booproj
+.booproj
 
-# ============ #
-# OS generated #
-# ============ #
+============
+OS generated
+============
 .DS_Store
-.DS_Store?
-._*
+.DSStore?
+.
 .Spotlight-V100
 .Trashes
 Icon?
